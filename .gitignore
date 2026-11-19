@@ -1,0 +1,10 @@
+# Derlenmiş Java bytecode dosyaları (terminalden javac ile derlenirse diye güvenlik ağı)
+*.class
+
+# Eclipse'in derlenmiş çıktı klasörü
+bin/
+
+# Eclipse'in yerel proje ve editör yapılandırma dosyaları
+.classpath
+.project
+.settings/
